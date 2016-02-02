@@ -3,5 +3,5 @@
 
 void main()
 {
-	print("print test Intern 1");
+	print("print test Intern 1/1/1");
 }
