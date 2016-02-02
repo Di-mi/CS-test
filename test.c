@@ -1,6 +1,9 @@
 void main()
 {
-	print("Milos");
+
+
+
+	print("Denis");
 	dkfjadaaf;
-	print("print test Intern 2");
+	dsdf;
 }
