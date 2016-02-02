@@ -4,13 +4,11 @@
 void main()
 {
 <<<<<<< HEAD
-<<<<<<< HEAD
-	print("Ivan");
-=======
-	print("Denis");
->>>>>>> f91df804862a132550bc326fea6ea290aa5ecaab
-	dkfjadaaf;
-=======
+
 	print("print test Intern 2");
->>>>>>> vanjagrana
+
+=======
+	print("Ivan");
+	dkfjadaaf;
+>>>>>>> 5f8d2fa8505a0f77a4c4a57ea8c5872574ae1bda
 }
