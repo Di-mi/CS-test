@@ -3,6 +3,6 @@
 
 void main()
 {
-	print("print test Intern 1");
+	print("Ivan");
 	dkfjadaaf;
 }
