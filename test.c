@@ -1,8 +1,5 @@
-
-
-
 void main()
 {
-	print("Ivan");
+	print("Milos");
 	dkfjadaaf;
 }
